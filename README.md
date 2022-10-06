@@ -27,8 +27,6 @@ http 5000`)
 ## Validation
 [*lib/src/validation.dart*](lib/src/validation.dart)
 
-
-
-cara menjalankan ketik ==> flutter run kemudian enter 
+A form that alerts the user if the data entered is invalid.
 
 cara menjalankan ketik ==> flutter run kemudian enter 
